@@ -25,4 +25,3 @@ Check the live demo here: [Calculator Live Demo](https://calculatoryuva.netlify.
 
 ---
 
-This is more concise, but still gives the key details!
